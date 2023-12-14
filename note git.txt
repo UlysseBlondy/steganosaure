@@ -1,0 +1,5 @@
+git clone lien de repo
+git clone https://github.com/UlysseBlondy/steganosaure.git
+
+si erreur enlever les https
+git clone 'github.com/UlysseBlondy/steganosaure.git'
